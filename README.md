@@ -19,7 +19,7 @@ TinyML and Efficient Deep Learning Computing (6.5940 • Fall • 2023) • http
 
 - 2022-NeurIPS-[MCUNetV3: On-Device Training Under 256KB Memory](https://hanlab.mit.edu/projects/mcunetv3)[‍](https://hanlab.mit.edu/projects/tinytl)
 
-  
+## Computer Vision
 
-## 
+- 2023-ICCV-[EfficientViT: Multi-Scale Linear Attention for High-Resolution Dense Prediction](https://github.com/mit-han-lab/efficientvit?tab=readme-ov-file)
 
