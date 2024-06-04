@@ -3,7 +3,11 @@
 ## Courses
 TinyML and Efficient Deep Learning Computing (6.5940 • Fall • 2023) • https://efficientml.ai
 
+## Knowledge Distillation
 
+- 2022-ECCV-[CMKD: Cross-Modality Knowledge Distillation Network for Monocular 3D Object Detection](https://github.com/Cc-Hy/CMKD) 
+
+- 2023-CVPR-[UniDistill: A Universal Cross-Modality Knowledge Distillation Framework for 3D Object Detection in Bird's-Eye View](https://github.com/megvii-research/CVPR2023-UniDistill?tab=readme-ov-file#unidistill-a-universal-cross-modality-knowledge-distillation-framework-for-3d-object-detection-in-birds-eye-view)
 
 ## TinyML
 
@@ -16,4 +20,6 @@ TinyML and Efficient Deep Learning Computing (6.5940 • Fall • 2023) • http
 - 2022-NeurIPS-[MCUNetV3: On-Device Training Under 256KB Memory](https://hanlab.mit.edu/projects/mcunetv3)[‍](https://hanlab.mit.edu/projects/tinytl)
 
   
+
+## 
 
