@@ -23,3 +23,8 @@ TinyML and Efficient Deep Learning Computing (6.5940 • Fall • 2023) • http
 
 - 2023-ICCV-[EfficientViT: Multi-Scale Linear Attention for High-Resolution Dense Prediction](https://github.com/mit-han-lab/efficientvit?tab=readme-ov-file)
 
+## Large Language Model
+
+- 2023-ICML-[SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models](https://github.com/mit-han-lab/smoothquant)
+- 2024-MLSys (Best Paper)-[AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration](https://github.com/mit-han-lab/llm-awq)
+
