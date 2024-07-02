@@ -9,6 +9,8 @@ TinyML and Efficient Deep Learning Computing (6.5940 • Fall • 2023) • http
 
 - 2023-CVPR-[UniDistill: A Universal Cross-Modality Knowledge Distillation Framework for 3D Object Detection in Bird's-Eye View](https://github.com/megvii-research/CVPR2023-UniDistill?tab=readme-ov-file#unidistill-a-universal-cross-modality-knowledge-distillation-framework-for-3d-object-detection-in-birds-eye-view)
 
+- 2024-CVPR-[CRKD: Enhanced Camera-Radar Object Detection with Cross-modality Knowledge Distillation](https://github.com/Song-Jingyu/CRKD)
+
 ## TinyML
 
 - 2020-NeurIPS-[TinyTL: Reduce Activations, Not Trainable Parameters for Efficient On-Device Learning](https://hanlab.mit.edu/projects/tinytl) 
